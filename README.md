@@ -14,7 +14,7 @@ As an Honors Undergraduate Research Scholar in the DISCL Lab, I research agentic
 
 ## 🔭 Experience
 
-### Break Through Tech AI Program · AI Fellow
+### Break Through Tech AI Program · AI Fellow · May 2026 – Present
 - **AI Studio, Fall 2026, challenge project with Accenture.** With a student team, building an NLP pipeline that detects 41 types of legal clauses in commercial contracts and ranks contracts by risk for human review.
 - Implemented the **DistilRoBERTa multi-label fine-tuning pipeline** and the **TF-IDF baseline**. The fine-tuned model reached **0.71 macro F1** on benchmark categories, beating the baseline's 0.59.
 - Project: [**ai-contract-risk-triage**](https://github.com/naeemexe/ai-contract-risk-triage)
